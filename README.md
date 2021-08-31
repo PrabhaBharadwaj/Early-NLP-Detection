@@ -56,7 +56,7 @@ Early-NLP-Detection for Loan product - Classification issue
     > Naive Bayes (But I/P are not independent) (Not used here)
     
     
-## Completed Steps:
+## Complete Steps:
 
 - Data Cleaning
 - Exploratory Data Analysis
