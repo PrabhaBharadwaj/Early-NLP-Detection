@@ -73,8 +73,6 @@ Early-NLP-Detection for Loan product - Classification issue
 -  Evaluated the Models
 
 
-- **Outcome:By this model reduced the False Negative Errors of such Actual NPA(1) predicted as Non NPA(0)  which is a great advantage for the PeerLoanKart financial company and its customers as well.**
-
 
 ### Conclusion:
 
